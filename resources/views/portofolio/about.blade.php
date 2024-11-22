@@ -45,8 +45,6 @@
 							</li>
 							<li><a href="{{ url('/work') }}">Work</a>
 							</li>
-							<li><a href="{{ url('/blog') }}">Blog</a>
-							</li>
 							<li><a href="{{ url('/contact') }}">Contact</a>
 							</li>
 						</ul><!--  -->
@@ -67,7 +65,7 @@
 						<!-- page-title -->
 						<div class="page-title pb-40">
 							<h2 class="page-title__title">About me</h2>
-							<p class="page-title__text">Curabitur elementum urna augue, eu porta</p>
+							<p class="page-title__text">An IT student exploring technology and coding with curiosity.</p>
 							<div class="page-title__divider"></div>
 						</div><!-- End / page-title -->
 						
@@ -80,39 +78,48 @@
 				<section class="awe-section bg-gray">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-6 col-lg-5 "><img src="https://images.pexels.com/photos/797558/pexels-photo-797558.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt="">
+							<div class="col-md-6 col-lg-5 "><img src="{{ asset('assets/img/profile.jpg') }}" alt="">
 							</div>
 							<div class="col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-1 ">
 								
 								<!--  -->
 								<div class="mt-30">
-									<h2 class="about__title">Erik Minimis</h2>
-									<p class="about__subtitle">Just Keep Scrolling! How To Design Lengthy, Lengthy Pages</p>
-									<p class="about__text">Maecenas lorem ex, euismod eget pulvinar non, facilisis ut leo. Quisque placerat purus in neque efficitur ornare. Nam at justo magna. Aliquam venenatis odio ante, non euismod augue porttitor eget. Maecenas nec viverra eros, eget euismod felis. Integer cursus libero sed lorem euismod, vel iaculis felis placerat. Pellentesque augue lacus, sodales et eros sed, molestie rhoncus ligula. Vivamus sed massa lorem. Suspendisse mollis lectus nec ex fermentum, in consectetur dolor egestas. Phasellus quis ipsum quis nisl ultricies sollicitudin id in dolor. Proin at consequat dui.</p>
+									<h2 class="about__title">Deny Wahyudi Asaloei</h2>
+									<p class="about__subtitle">Welcome to My Space!</p>
+									<p class="about__text">Hi, I’m Deny Wahyudi Asaloei, an IT student with a passion for technology and coding. I enjoy exploring different areas of programming and continuously learning to enhance my skills. 
+										In my free time, I like diving into new projects, experimenting with ideas, and finding innovative solutions to challenges. 
+										Feel free to look around and get to know more about my journey in the world of tech!</p>
 									
 									<!-- progress -->
 									<div class="progress">
-										<h5 class="progress__title">design</h5>
+										<h5 class="progress__title">python</h5>
 										<div class="progress__wrap">
-											<div class="progress__bar" data-progress-percent="33" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">39%</span>
+											<div class="progress__bar" data-progress-percent="80" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">80%</span>
 										</div>
 									</div><!-- End / progress -->
 									
 									
+									
 									<!-- progress -->
 									<div class="progress">
-										<h5 class="progress__title">photography</h5>
+										<h5 class="progress__title">php</h5>
 										<div class="progress__wrap">
-											<div class="progress__bar" data-progress-percent="59" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">47%</span>
+											<div class="progress__bar" data-progress-percent="50" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">50%</span>
 										</div>
 									</div><!-- End / progress -->
 									
-									
 									<!-- progress -->
 									<div class="progress">
-										<h5 class="progress__title">web development</h5>
+										<h5 class="progress__title">java</h5>
 										<div class="progress__wrap">
-											<div class="progress__bar" data-progress-percent="53" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">59%</span>
+											<div class="progress__bar" data-progress-percent="70" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">70%</span>
+										</div>
+									</div><!-- End / progress -->
+									<!-- progress -->
+									<div class="progress">
+										<h5 class="progress__title">dart</h5>
+										<div class="progress__wrap">
+											<div class="progress__bar" data-progress-percent="40" data-timing="ease" data-duration="1000" data-delay="500"></div><span class="progress__number">40%</span>
 										</div>
 									</div><!-- End / progress -->
 									
@@ -138,29 +145,13 @@
 							<div class="footer__social">
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-facebook"></i>
+								<a class="social-icon" href="https://www.instagram.com/denywa_/"><i class="social-icon__icon fa fa-instagram"></i>
 								</a><!-- End / social-icon -->
 								
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-twitter"></i>
+								<a class="social-icon" href="https://github.com/denywa"><i class="social-icon__icon fa fa-github"></i>
 								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-linkedin"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-behance"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-vimeo"></i>
-								</a><!-- End / social-icon -->
-								
 							</div>
 						</div>
 					</div>

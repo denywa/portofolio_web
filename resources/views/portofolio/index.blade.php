@@ -45,8 +45,6 @@
 							</li>
 							<li><a href="{{ url('/work') }}">Work</a>
 							</li>
-							<li><a href="{{ url('/blog') }}">Blog</a>
-							</li>
 							<li><a href="{{ url('/contact') }}">Contact</a>
 							</li>
 						</ul><!--  -->
@@ -105,19 +103,19 @@
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
+											<div class="work"><a href="https://github.com/denywa">
 													
 													<!-- hoverbox ef-slide-bottom -->
 													<div class="hoverbox ef-slide-bottom light">
 														
 														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/807034/pexels-photo-807034.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
+														<div class="hb_front"><img src="{{ asset('assets/img/smartmirror.jpg') }}" alt=""/>
 														</div><!-- End / hb_front -->
 														
 														
 														<!-- hb_back -->
 														<div class="hb_back">
-															<h2 class="work__title">The Myth of Ugly Design</h2><span class="work__text">View detail</span>
+															<h2 class="work__title">Smart Mirror</h2><span class="work__text">View Detail</span>
 														</div><!-- End / hb_back -->
 														
 													</div><!-- End / hoverbox ef-slide-bottom -->
@@ -127,51 +125,25 @@
 										</div>
 									</div>
 								</div>
+
 								<div class="grid-item">
 									<div class="grid-item__inner">
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
-													
-													<!-- hoverbox ef-move-top -->
-													<div class="hoverbox ef-move-top light">
-														
-														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/609687/pexels-photo-609687.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
-														</div><!-- End / hb_front -->
-														
-														
-														<!-- hb_back -->
-														<div class="hb_back">
-															<h2 class="work__title">How to Create and Manage SVG Sprites</h2><span class="work__text">View detail</span>
-														</div><!-- End / hb_back -->
-														
-													</div><!-- End / hoverbox ef-move-top -->
-													</a>
-											</div><!-- End / work -->
-											
-										</div>
-									</div>
-								</div>
-								<div class="grid-item">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											
-											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
+											<div class="work"><a href="https://github.com/denywa">
 													
 													<!-- hoverbox ef-slide-right -->
 													<div class="hoverbox ef-slide-right light">
 														
 														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/754949/pexels-photo-754949.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
+														<div class="hb_front"><img src="{{ asset('assets/img/parkirki.png') }}" alt=""/>
 														</div><!-- End / hb_front -->
 														
 														
 														<!-- hb_back -->
 														<div class="hb_back">
-															<h2 class="work__title">Using Memes in Your Content</h2><span class="work__text">View detail</span>
+															<h2 class="work__title">Protorype Parkirki'</h2><span class="work__text">View detail</span>
 														</div><!-- End / hb_back -->
 														
 													</div><!-- End / hoverbox ef-slide-right -->
@@ -186,19 +158,19 @@
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
+											<div class="work"><a href="https://github.com/denywa">
 													
 													<!-- hoverbox ef-zoom-in -->
 													<div class="hoverbox ef-zoom-in light">
 														
 														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/794578/pexels-photo-794578.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
+														<div class="hb_front"><img src="{{ asset('assets/img/robot.jpg') }}" alt=""/>
 														</div><!-- End / hb_front -->
 														
 														
 														<!-- hb_back -->
 														<div class="hb_back">
-															<h2 class="work__title">Is UX Really That Important?</h2><span class="work__text">View detail</span>
+															<h2 class="work__title">Robot Trasporter</h2><span class="work__text">View detail</span>
 														</div><!-- End / hb_back -->
 														
 													</div><!-- End / hoverbox ef-zoom-in -->
@@ -213,19 +185,19 @@
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
+											<div class="work"><a href="https://github.com/denywa">
 													
 													<!-- hoverbox ef-zoom-in -->
 													<div class="hoverbox ef-zoom-in light">
 														
 														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/580649/pexels-photo-580649.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
+														<div class="hb_front"><img src="{{ asset('assets/img/siata.jpg') }}" alt=""/>
 														</div><!-- End / hb_front -->
 														
 														
 														<!-- hb_back -->
 														<div class="hb_back">
-															<h2 class="work__title">Best National Locations</h2><span class="work__text">View detail</span>
+															<h2 class="work__title">Website Siata</h2><span class="work__text">View detail</span>
 														</div><!-- End / hb_back -->
 														
 													</div><!-- End / hoverbox ef-zoom-in -->
@@ -240,46 +212,19 @@
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
-													
-													<!-- hoverbox ef-slide-right -->
-													<div class="hoverbox ef-slide-right light">
-														
-														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
-														</div><!-- End / hb_front -->
-														
-														
-														<!-- hb_back -->
-														<div class="hb_back">
-															<h2 class="work__title">Best National Locations</h2><span class="work__text">View detail</span>
-														</div><!-- End / hb_back -->
-														
-													</div><!-- End / hoverbox ef-slide-right -->
-													</a>
-											</div><!-- End / work -->
-											
-										</div>
-									</div>
-								</div>
-								<div class="grid-item">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											
-											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
+											<div class="work"><a href="https://github.com/denywa">
 													
 													<!-- hoverbox ef-move-right -->
 													<div class="hoverbox ef-move-right light">
 														
 														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/792906/pexels-photo-792906.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
+														<div class="hb_front"><img src="{{ asset('assets/img/flutter.png') }}" alt=""/>
 														</div><!-- End / hb_front -->
 														
 														
 														<!-- hb_back -->
 														<div class="hb_back">
-															<h2 class="work__title">Free PSD Files</h2><span class="work__text">View detail</span>
+															<h2 class="work__title">Flutter Valorant Store UI</h2><span class="work__text">View detail</span>
 														</div><!-- End / hb_back -->
 														
 													</div><!-- End / hoverbox ef-move-right -->
@@ -289,70 +234,16 @@
 										</div>
 									</div>
 								</div>
-								<div class="grid-item">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											
-											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
-													
-													<!-- hoverbox ef-move-bottom -->
-													<div class="hoverbox ef-move-bottom light">
-														
-														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/789140/pexels-photo-789140.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
-														</div><!-- End / hb_front -->
-														
-														
-														<!-- hb_back -->
-														<div class="hb_back">
-															<h2 class="work__title">5 Ways to Use 404 Pages</h2><span class="work__text">View detail</span>
-														</div><!-- End / hb_back -->
-														
-													</div><!-- End / hoverbox ef-move-bottom -->
-													</a>
-											</div><!-- End / work -->
-											
-										</div>
-									</div>
-								</div>
-								<div class="grid-item">
-									<div class="grid-item__inner">
-										<div class="grid-item__content-wrapper">
-											
-											<!-- work -->
-											<div class="work"><a href="{{ url('/work-detail') }}">
-													
-													<!-- hoverbox ef-move-bottom -->
-													<div class="hoverbox ef-move-bottom light">
-														
-														<!-- hb_front -->
-														<div class="hb_front"><img src="https://images.pexels.com/photos/15382/pexels-photo.jpg?h=350&amp;auto=compress&amp;cs=tinysrgb" alt=""/>
-														</div><!-- End / hb_front -->
-														
-														
-														<!-- hb_back -->
-														<div class="hb_back">
-															<h2 class="work__title">5 Ways to Use 404 Pages</h2><span class="work__text">View detail</span>
-														</div><!-- End / hb_back -->
-														
-													</div><!-- End / hoverbox ef-move-bottom -->
-													</a>
-											</div><!-- End / work -->
-											
-										</div>
-									</div>
-								</div>
+								
+								
 							</div>
 						</div>
 						<div class="awe-text-center mt-50">
-							<a class="md-btn md-btn--outline-primary" href="#">all work
-							</a>
+					
 						</div>
 					</div>
 				</section>
-				<!-- End / Section -->
-				
+				<!-- End / Section -->				
 			</div>
 			<!-- End / Content-->
 			
@@ -367,28 +258,14 @@
 							<div class="footer__social">
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-facebook"></i>
+								<a class="social-icon" href="https://www.instagram.com/denywa_/"><i class="social-icon__icon fa fa-instagram"></i>
 								</a><!-- End / social-icon -->
 								
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-twitter"></i>
+								<a class="social-icon" href="https://github.com/denywa"><i class="social-icon__icon fa fa-github"></i>
 								</a><!-- End / social-icon -->
 								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-linkedin"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-behance"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-vimeo"></i>
-								</a><!-- End / social-icon -->
 								
 							</div>
 						</div>

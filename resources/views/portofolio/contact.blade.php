@@ -43,7 +43,6 @@
 							<li><a href="{{ url('/') }}">Home</a></li>
 							<li><a href="{{ url('/about') }}">About</a></li>
 							<li><a href="{{ url('/work') }}">Work</a></li>
-							<li><a href="{{ url('/blog') }}">Blog</a></li>
 							<li class="current-menu-item"><a href="{{ url('/contact') }}">Contact</a></li>
 						</ul><!--  -->
 						
@@ -82,15 +81,15 @@
 								<div class="contact">
 									<div class="contact__icon"><i class="pe-7s-note"></i></div>
 									<h3 class="contact__title">address</h3>
-									<div class="contact__text">Nam suscipit nisi risus, et porttitor metus molest</div>
+									<div class="contact__text">Sulawesi Selatan, Makassar</div>
 								</div><!-- End / contact -->
 								
 								
 								<!-- contact -->
 								<div class="contact">
-									<div class="contact__icon"><i class="pe-7s-back"></i></div>
-									<h3 class="contact__title">call us</h3>
-									<div class="contact__text">+1-202-555-0177</div>
+									<div class="contact__icon" ><i class="pe-7s-back"></i></div>
+									<h3 class="contact__title">github</h3>
+									<div class="contact__text"><a href="https://github.com/denywa/">denywa</div>
 								</div><!-- End / contact -->
 								
 								
@@ -98,7 +97,7 @@
 								<div class="contact">
 									<div class="contact__icon"><i class="pe-7s-voicemail"></i></div>
 									<h3 class="contact__title">e-mail</h3>
-									<div class="contact__text"><a href="#">info@awethemes.com</a></div>
+									<div class="contact__text"><a href="mailto:dwa1503@gmail.com">dwa1503@gmail.com</a></div>
 								</div><!-- End / contact -->
 								
 							</div>
@@ -156,29 +155,13 @@
 							<div class="footer__social">
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-facebook"></i>
+								<a class="social-icon" href="https://www.instagram.com/denywa_/"><i class="social-icon__icon fa fa-instagram"></i>
 								</a><!-- End / social-icon -->
 								
 								
 								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-twitter"></i>
+								<a class="social-icon" href="https://github.com/denywa"><i class="social-icon__icon fa fa-github"></i>
 								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-linkedin"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-behance"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-vimeo"></i>
-								</a><!-- End / social-icon -->
-								
 							</div>
 						</div>
 					</div>
