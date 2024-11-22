@@ -62,7 +62,7 @@
 						<!-- page-title -->
 						<div class="page-title pb-40">
 							<h2 class="page-title__title">Get in touch</h2>
-							<p class="page-title__text">Curabitur elementum urna augue, eu porta</p>
+							<p class="page-title__text">Feel free to reach out for collaboration, questions, or just to say hello!</p>
 							<div class="page-title__divider"></div>
 						</div><!-- End / page-title -->
 						
