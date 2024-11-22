@@ -7,15 +7,15 @@
 		<meta name="format-detection" content="telephone=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<!-- Fonts-->
-		<link rel="stylesheet" type="text/css" href="{{ asset('assets/fonts/fontawesome/font-awesome.min.css') }}">
-		<link rel="stylesheet" type="text/css" href="{{ asset('assets/fonts/pe-icon/pe-icon.css') }}">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/pe-icon/pe-icon.css">
 		<!-- Vendors-->
-		<link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/bootstrap/grid.css') }}">
-		<link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/magnific-popup/magnific-popup.min.css') }}">
-		<link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/swiper/swiper.css') }}">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap/grid.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/swiper/swiper.css">
 		<!-- App & fonts-->
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:400,700">
-		<link rel="stylesheet" type="text/css" id="app-stylesheet" href="{{ asset('assets/css/main.css') }}"><!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" id="app-stylesheet" href="/assets/css/main.css"><!--[if lt ]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
 	</head>
@@ -177,19 +177,19 @@
 			
 		</div>
 		<!-- Vendors-->
-		<script type="text/javascript" src="{{ asset('assets/vendors/jquery/jquery.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/imagesloaded/imagesloaded.pkgd.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/isotope-layout/isotope.pkgd.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/jquery-one-page/jquery.nav.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/jquery.easing/jquery.easing.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/masonry-layout/masonry.pkgd.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/jquery.waypoints/jquery.waypoints.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/swiper/swiper.jquery.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/menu/menu.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/vendors/typed/typed.min.js') }}"></script>
+		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery-one-page/jquery.nav.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.easing/jquery.easing.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/swiper/swiper.jquery.js"></script>
+		<script type="text/javascript" src="assets/vendors/menu/menu.js"></script>
+		<script type="text/javascript" src="assets/vendors/typed/typed.min.js"></script>
 		<!-- App-->
-		<script type="text/javascript" src="{{ asset('assets/js/main.js') }}"></script>
+		<script type="text/javascript" src="assets/js/main.js"></script>
 	</body>
 </html>
