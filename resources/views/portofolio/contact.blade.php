@@ -88,8 +88,8 @@
 								<!-- contact -->
 								<div class="contact">
 									<div class="contact__icon" ><i class="pe-7s-back"></i></div>
-									<h3 class="contact__title">github</h3>
-									<div class="contact__text"><a href="https://github.com/denywa/">denywa</div>
+									<h3 class="contact__title">instagram</h3>
+									<div class="contact__text"><a href="https://www.instagram.com/denywa_/">denywa</div>
 								</div><!-- End / contact -->
 								
 								
@@ -100,42 +100,6 @@
 									<div class="contact__text"><a href="mailto:dwa1503@gmail.com">dwa1503@gmail.com</a></div>
 								</div><!-- End / contact -->
 								
-							</div>
-							<div class="col-md-7 col-lg-8 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-1 ">
-								<div class="form-wrapper">
-									
-									<!-- form-item -->
-									<div class="form-item form-item--half">
-										<input class="form-control" type="text" name="input" placeholder="Your name"/>
-									</div><!-- End / form-item -->
-									
-									
-									<!-- form-item -->
-									<div class="form-item form-item--half">
-										<input class="form-control" type="text" name="input" placeholder="Your email"/>
-									</div><!-- End / form-item -->
-									
-									
-									<!-- form-item -->
-									<div class="form-item">
-										<input class="form-control" type="text" name="input" placeholder="Subject"/>
-									</div><!-- End / form-item -->
-									
-									
-									<!-- form-item -->
-									<div class="form-item">
-										<textarea class="form-control" placeholder="Your message" style="min-height:200px;"></textarea>
-									</div><!-- End / form-item -->
-									
-									
-									<!-- form-item -->
-									<div class="form-item">
-										<a class="md-btn md-btn--primary md-btn--lg " href="#">Send message
-										</a>
-									</div><!-- End / form-item -->
-									
-								</div>
-							</div>
 						</div>
 					</div>
 				</section>
